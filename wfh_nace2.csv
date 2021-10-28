@@ -1,90 +1,90 @@
-nace2,nace2_lab,wfh_freq,wfh_tot,wfh_feas
-0,"Overall",9.327550453133881,25.59765243344009,55.52413146942854
-1,"1 Crop and animal production, hunting and related service activities",7.010315709543647,15.71088251785841,37.15094197681174
-2,"2 Forestry and logging",7.675642542541027,17.69254751200788,39.09916014131159
-3,"3 Fishing and aquaculture",7.352660160046071,16.68580843880773,37.6091839633882
-5,"5 Mining of coal and lignite",4.654528307728469,17.58310091868043,39.37615656293929
-6,"6 Extraction of crude petroleum and natural gas",7.886280085192993,25.79397291131318,53.12825714051723
-7,"7 Mining of metal ores",4.528282191604376,15.95060661435127,39.26937606930733
-8,"8 Other mining and quarrying",4.746655763185117,16.32685588602908,39.01473048422486
-9,"9 Mining support service activities",5.761214596452191,19.81476471060887,46.06489592045546
-10,"10 Manufacture of food products",6.066334082570393,16.99345859582536,41.82805561181158
-11,"11 Manufacture of beverages",8.63215944217518,22.72238182718866,49.41405773861334
-12,"12 Manufacture of tobacco products",8.470093930372968,24.39043628284708,54.56439778394997
-13,"13 Manufacture of textiles",7.039423695299774,23.25305082101841,57.91233673132956
-14,"14 Manufacture of wearing apparel",9.876335796827334,29.52962021663552,65.41820755111985
-15,"15 Manufacture of leather and related products",6.693245103931986,22.78837062418461,57.79523224476725
-16,"16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",5.075710983917816,15.54457898868714,42.82268000557087
-17,"17 Manufacture of paper and paper products",6.625025109096896,22.9141850231681,58.58538661757484
-18,"18 Printing and reproduction of recorded media",7.358210102123849,25.50222833902808,63.4172297604382
-19,"19 Manufacture of coke and refined petroleum products",8.507000115496339,28.11474659678061,61.24394456436858
-20,"20 Manufacture of chemicals and chemical products",8.226694866112666,27.37938097817823,60.79044752474874
-21,"21 Manufacture of basic pharmaceutical products and pharmaceutical preparations",8.607931892969646,28.71584369218908,62.59411670011468
-22,"22 Manufacture of rubber and plastic products",5.890388643398182,18.63122835755348,48.27559369523078
-23,"23 Manufacture of other non-metallic mineral products",5.983980909979437,19.29317196155898,43.60992404492572
-24,"24 Manufacture of basic metals",5.055253159196582,16.56381416763179,43.35897439252585
-25,"25 Manufacture of fabricated metal products, except machinery and equipment",5.143587083031889,16.46980109123979,43.33437123289332
-26,"26 Manufacture of computer, electronic and optical products",10.42651051050052,31.96816246875096,64.73035274958238
-27,"27 Manufacture of electrical equipment",9.409286661684746,28.74473463557661,61.29128916561604
-28,"28 Manufacture of machinery and equipment n.e.c.",7.8362733971735,24.21987438271753,55.36151687102392
-29,"29 Manufacture of motor vehicles, trailers and semi-trailers",7.034021150495391,23.20733238584944,55.1210428152699
-30,"30 Manufacture of other transport equipment",7.937607840649434,25.37908280003467,57.57435699808411
-31,"31 Manufacture of furniture",5.661691555593279,16.91803071083268,45.57681153947487
-32,"32 Other manufacturing",8.129104293708224,23.8338247386273,54.29107111645862
-33,"33 Repair and installation of machinery and equipment",7.952925367746502,24.4843719098717,55.64395965216681
-35,"35 Electricity, gas, steam and air conditioning supply",11.10311063152039,33.75137843354605,68.42915416881442
-36,"36 Water collection, treatment and supply",8.382716281805187,27.29591901204549,58.83343132771552
-37,"37 Sewerage",6.597973254101817,22.11560773651581,50.20914356852882
-38,"38 Waste collection, treatment and disposal activities; materials recovery",5.655927628511563,17.78924697684124,42.31285874173045
-39,"39 Remediation activities and other waste management services",7.010314743034542,21.70045825093985,48.07981209456921
-41,"41 Construction of buildings",4.375426359401899,15.78763571800664,40.68193805357441
-42,"42 Civil engineering",3.884329336549854,14.33659867152164,38.22322767635342
-43,"43 Specialised construction activities",5.134709851379739,17.62973916315241,42.39078916795552
-45,"45 Wholesale and retail trade and repair of motor vehicles and motorcycles",6.999970165314153,20.52045139996335,52.1018763340544
-46,"46 Wholesale trade, except of motor vehicles and motorcycles",12.56873151066247,31.89683250989765,64.05721562542021
-47,"47 Retail trade, except of motor vehicles and motorcycles",5.750754991197027,17.19275553175248,46.83935255790129
-49,"49 Land transport and transport via pipelines",3.917208127299091,11.26748411217704,29.8534480961971
-50,"50 Water transport",8.083791994780768,21.90447173011489,49.46047084592283
-51,"51 Air transport",6.695738788315793,17.0049676593917,43.03920156997629
-52,"52 Warehousing and support activities for transportation",6.185642755415756,16.84436302958056,42.72519014682621
-53,"53 Postal and courier activities",5.342434865095129,13.31529510694963,38.53695811986108
-55,"55 Accommodation",9.912741689295217,20.4361255155527,42.77415867405944
-56,"56 Food and beverage service activities",8.339429671599646,17.87395389621088,38.97793441562681
-58,"58 Publishing activities",16.73994182022943,47.23791230085772,83.62215044547338
-59,"59 Motion picture, video and television programme production, sound recording and music publishing activities",15.96049754467094,42.37370236543939,69.83842578623444
-60,"60 Programming and broadcasting activities",17.7120046563432,46.76164508078364,79.77429425623268
-61,"61 Telecommunications",13.28464298088511,39.58248402387835,73.49407637747936
-62,"62 Computer programming, consultancy and related activities",18.72375641651524,57.21586413349723,87.42967326764483
-63,"63 Information service activities",16.64250385866035,46.95764159737155,82.17040503025055
-64,"64 Financial service activities, except insurance and pension funding",11.20271766376754,36.41821331369283,89.42865748080658
-65,"65 Insurance, reinsurance and pension funding, except compulsory social security",12.43362006477764,38.99287547259883,89.54816323186969
-66,"66 Activities auxiliary to financial services and insurance activities",13.49872561655502,40.46414406225085,88.21395110641606
-68,"68 Real estate activities",13.70778890303336,36.13491643383168,70.92610584106296
-69,"69 Legal and accounting activities",10.87728452941701,34.905485497482,87.59440229577012
-70,"70 Activities of head offices; management consultancy activities",13.88795610138914,39.89249592507258,76.53004431352019
-71,"71 Architectural and engineering activities; technical testing and analysis",10.18670584214851,33.88116629701108,70.69354443997145
-72,"72 Scientific research and development ",17.47629971543211,40.0259527771268,70.55837484169751
-73,"73 Advertising and market research",14.56869049045781,41.19932617561426,78.07826924300753
-74,"74 Other professional, scientific and technical activities",12.20089585962705,34.77822794951499,70.79024606384337
-75,"75 Veterinary activities",3.937549914087867,15.91811872960534,43.62084260722622
-77,"77 Rental and leasing activities",11.23786387825385,29.43334403261542,59.98469404131174
-78,"78 Employment activities",6.009754972998053,17.47894730325788,44.37269378080964
-79,"79 Travel agency, tour operator and other reservation service and related activities",12.18484720408742,28.03102626479813,55.64022421045229
-80,"80 Security and investigation activities",5.750567022958421,17.20696436410071,42.63027988845715
-81,"81 Services to buildings and landscape activities",6.180393677030224,13.49415499041788,38.14699845248833
-82,"82 Office administrative, office support and other business support activities",13.6391536325682,36.99405249068514,71.86323924735188
-84,"84 Public administration and defence; compulsory social security",10.75666374480352,30.56645473674871,69.25951122492552
-85,"85 Education",30.20091027213493,51.14475454157218,72.4853054038249
-86,"86 Human health activities",5.153457409971452,17.77776315805386,45.77074214845197
-87,"87 Residential care activities",7.852925774976029,22.36555864303955,47.58953037601896
-88,"88 Social work activities without accommodation",9.233374721108703,25.61976396734826,52.48065858939663
-90,"90 Creative, arts and entertainment activities",16.84345044009387,42.56829123664647,63.50687352009118
-91,"91 Libraries, archives, museums and other cultural activities",13.37737695744727,32.34170334413648,65.94277157261968
-92,"92 Gambling and betting activities",8.15882839000551,21.61122530332068,47.73861850914545
-93,"93 Sports activities and amusement and recreation activities",21.17688239400741,38.68467772798613,61.60949583817273
-94,"94 Activities of membership organisations",15.39663687284337,37.60928253643215,69.97693849075586
-95,"95 Repair of computers and personal and household goods",9.17001216695644,27.81188251636922,59.55375784542412
-96,"96 Other personal service activities",5.734772685682401,16.51206985511817,41.75861759157851
-97,"97 Activities of households as employers of domestic personnel",10.80633983234293,29.09886409458704,54.68021373916417
-98,"98 Undifferentiated goods- and services-producing activities of private households for own use",5.499271068256348,17.34939710237086,40.61976321786642
-99,"99 Activities of extraterritorial organisations and bodies",9.763201345340349,28.50822891504504,63.11449551116675
+nace2,nace2_lb,wfh_freq,wfh_occ,wfh_untapped_sup,wfh_untapped_dem,wfh_feas
+0,Overall,9.3275509,16.270103,20.322807,9.603672,55.524136
+1," Crop and animal production, hunting and related service activities ",7.0103154,8.7005663,13.609602,7.8304572,37.150944
+2, Forestry and logging ,7.6756425,10.016905,13.97877,7.4278412,39.099159
+3, Fishing and aquaculture ,7.3526597,9.333148,13.984144,6.9392314,37.609184
+5, Mining of coal and lignite ,4.6545281,12.928573,16.672853,5.1202016,39.376156
+6, Extraction of crude petroleum and natural gas ,7.8862801,17.907692,20.233532,7.1007528,53.128254
+7, Mining of metal ores ,4.5282822,11.422324,17.359606,5.9591641,39.269375
+8, Other mining and quarrying ,4.7466559,11.5802,16.348263,6.3396111,39.014729
+9, Mining support service activities ,5.7612147,14.053551,18.857819,7.392312,46.064896
+10, Manufacture of food products ,6.0663342,10.927124,16.925207,7.909389,41.828053
+11, Manufacture of beverages ,8.6321592,14.090222,18.431477,8.2601995,49.414059
+12, Manufacture of tobacco products ,8.4700947,15.920342,20.639832,9.5341291,54.5644
+13, Manufacture of textiles ,7.0394239,16.213627,24.318432,10.340856,57.912338
+14, Manufacture of wearing apparel ,9.8763361,19.653284,25.275349,10.613239,65.418205
+15, Manufacture of leather and related products ,6.6932449,16.095125,24.641766,10.365097,57.795231
+16," Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials ",5.0757113,10.468868,16.237417,11.040684,42.822681
+17, Manufacture of paper and paper products ,6.6250248,16.28916,25.50939,10.16181,58.585388
+18, Printing and reproduction of recorded media ,7.3582096,18.144018,27.413336,10.501666,63.417225
+19, Manufacture of coke and refined petroleum products ,8.507,19.607746,23.760178,9.3690195,61.243946
+20, Manufacture of chemicals and chemical products ,8.2266951,19.152685,23.515759,9.8953066,60.790451
+21," Manufacture of pharmaceuticals, medicinal chemical and botanical products ",8.6079321,20.107912,23.858809,10.019464,62.594116
+22, Manufacture of rubber and plastics products ,5.890389,12.74084,18.615032,11.029334,48.275593
+23, Manufacture of other non-metallic mineral products ,5.9839811,13.309191,17.993862,6.3228898,43.609924
+24, Manufacture of basic metals ,5.055253,11.508561,18.985504,7.8096552,43.358974
+25," Manufacture of fabricated metal products, except machinery and equipment ",5.1435871,11.326214,18.949316,7.9152532,43.33437
+26," Manufacture of computer, electronic and optical products ",10.42651,21.541653,23.200195,9.5619936,64.730354
+27, Manufacture of electrical equipment ,9.4092865,19.335447,22.941206,9.6053486,61.29129
+28, Manufacture of machinery and equipment n.e.c. ,7.8362732,16.3836,21.742878,9.3987646,55.361515
+29," Manufacture of motor vehicles, trailers and semi-trailers ",7.0340214,16.173311,21.859566,10.054145,55.121048
+30, Manufacture of other transport equipment ,7.9376078,17.441475,22.173439,10.021835,57.574356
+31, Manufacture of furniture ,5.6616917,11.256339,17.240459,11.418321,45.576813
+32, Other manufacturing ,8.1291046,15.704721,20.701561,9.7556858,54.291069
+33, Repair and installation of machinery and equipment ,7.9529257,16.531446,21.571358,9.5882301,55.643959
+35," Electricity, gas, steam and air conditioning supply ",11.10311,22.648268,24.686359,9.991416,68.429153
+36," Water collection, treatment and supply ",8.3827162,18.913204,22.530083,9.0074301,58.833431
+37, Sewerage ,6.5979733,15.517635,19.903305,8.1902313,50.209148
+38," Waste collection, treatment and disposal activities; materials recovery ",5.6559277,12.13332,17.125687,7.3979249,42.312859
+39, Remediation activities and other waste management services ,7.0103145,14.690145,18.317122,8.0622311,48.079811
+41, Construction of buildings ,4.3754263,11.41221,17.914558,6.979744,40.681942
+42, Civil engineering ,3.8843293,10.45227,17.149256,6.7373729,38.223228
+43, Specialized construction activities ,5.1347094,12.495029,17.432774,7.3282762,42.390789
+45, Wholesale and retail trade and repair of motor vehicles and motorcycles ,6.9999704,13.520481,21.042883,10.538542,52.101875
+46," Wholesale trade, except of motor vehicles and motorcycles ",12.568731,19.3281,22.820793,9.3395929,64.05722
+47," Retail trade, except of motor vehicles and motorcycles ",5.7507548,11.442,20.619909,9.0266886,46.839352
+49, Land transport and transport via pipelines ,3.9172082,7.3502765,12.486051,6.0999141,29.853449
+50, Water transport ,8.0837917,13.82068,18.837851,8.7181501,49.460472
+51, Air transport ,6.6957393,10.309229,17.979523,8.0547123,43.039204
+52, Warehousing and support activities for transportation ,6.1856427,10.658721,17.847542,8.0332851,42.725189
+53, Postal and courier activities ,5.3424349,7.9728603,17.365643,7.8560181,38.536957
+55, Accommodation ,9.9127407,10.523383,13.071014,9.2670193,42.774158
+56, Food and beverage service activities ,8.3394299,9.534524,12.741349,8.3626308,38.977936
+58, Publishing activities ,16.739943,30.497971,26.097214,10.287026,83.622154
+59," Motion picture, video and television programme production, sound recording and music publishing activities ",15.960498,26.413206,19.658442,7.806283,69.838425
+60, Programming and broadcasting activities ,17.712004,29.049639,24.13389,8.8787575,79.774292
+61, Telecommunications ,13.284643,26.29784,24.322723,9.5888691,73.49408
+62," Computer programming, consultancy and related activities ",18.723757,38.492107,21.134363,9.0794449,87.429672
+63, Information service activities ,16.642504,30.31514,24.943899,10.268862,82.170403
+64," Financial service activities, except insurance and pension funding ",11.202718,25.215494,37.660942,15.349502,89.428658
+65," Insurance, reinsurance and pension funding, except compulsory social security ",12.43362,26.559258,35.924633,14.630654,89.548164
+66, Activities auxiliary to financial service and insurance activities ,13.498725,26.965422,33.908131,13.841675,88.213951
+68, Real estate activities ,13.707788,22.427128,24.758581,10.032608,70.926109
+69, Legal and accounting activities ,10.877284,24.0282,36.493294,16.195621,87.594398
+70, Activities of head offices; management consultancy activities ,13.887957,26.004541,25.622303,11.015249,76.530045
+71, Architectural and engineering activities; technical testing and analysis ,10.186706,23.69446,26.302608,10.509768,70.693542
+72, Scientific research and development ,17.476299,22.549652,21.441795,9.0906267,70.558372
+73, Advertising and market research ,14.568691,26.630634,26.587912,10.291033,78.07827
+74," Other professional, scientific and technical activities ",12.200895,22.577332,25.676273,10.335743,70.790245
+75, Veterinary activities ,3.9375498,11.980569,18.608408,9.0943165,43.620842
+77, Rental and leasing activities ,11.237864,18.19548,21.148569,9.4027815,59.984695
+78, Employment activities ,6.0097551,11.469193,18.289711,8.6040344,44.372692
+79," Travel agency, tour operator, reservation service and related activities ",12.184847,15.846179,17.702675,9.9065237,55.640221
+80, Security and investigation activities ,5.750567,11.456397,21.142738,4.2805772,42.630283
+81, Services to buildings and landscape activities ,6.1803932,7.3137612,11.986444,12.6664,38.146996
+82," Office administrative, office support and other business support activities ",13.639153,23.354898,24.554775,10.314412,71.863243
+84, Public administration and defence; compulsory social security ,10.756664,19.80979,25.750614,12.942442,69.259506
+85, Education ,30.200911,20.943846,13.981068,7.3594818,72.485306
+86, Human health activities ,5.1534576,12.624306,18.623957,9.3690224,45.770744
+87, Residential care activities ,7.8529253,14.512632,15.251387,9.9725838,47.589527
+88, Social work activities without accommodation ,9.2333746,16.386391,16.948965,9.9119301,52.480663
+90," Creative, arts and entertainment activities ",16.843452,25.724844,15.372043,5.5665412,63.506878
+91," Libraries, archives, museums and other cultural activities ",13.377378,18.964327,22.928677,10.672392,65.942772
+92, Gambling and betting activities ,8.1588287,13.452397,19.931286,6.1961088,47.738617
+93, Sports activities and amusement and recreation activities ,21.176882,17.507795,15.349166,7.5756512,61.609493
+94, Activities of membership organizations ,15.396637,22.212645,21.574812,10.792843,69.976936
+95, Repair of computers and personal and household goods ,9.1700125,18.64187,22.181637,9.5602398,59.553761
+96, Other personal service activities ,5.7347727,10.777298,14.691883,10.554666,41.758617
+97, Activities of households as employers of domestic personnel ,10.806339,18.292524,15.674623,9.9067259,54.68021
+98, Undifferentiated goods- and services-producing activities of private households for own use ,5.4992714,11.850127,15.980842,7.289525,40.619762
+99, Activities of extraterritorial organizations and bodies ,9.7632017,18.745028,23.918003,10.688264,63.114494
