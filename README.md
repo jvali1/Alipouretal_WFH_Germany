@@ -1,5 +1,5 @@
 ﻿## README
-This repository contains the Working from Home (WFgit H) capacity index propsed in "[Germany's Capacity to Work from Home](https://www.cesifo.org/en/publikationen/2020/working-paper/germanys-capacities-work-home "Germany's Capacities to Work from Home")" by Jean-Victor Alipour, Oliver Falck and Simone Schüller.
+This repository contains the Working from Home (WFH) capacity index propsed in "[Germany's Capacity to Work from Home](https://www.cesifo.org/en/publikationen/2020/working-paper/germanys-capacities-work-home "Germany's Capacities to Work from Home")" by Jean-Victor Alipour, Oliver Falck and Simone Schüller.
 
 The index is available at the 2-digit NACE industry level, NUTS-3 (county) level, and the 2-digit occupation level (KldB-2010 and ISCO-2008):
 
