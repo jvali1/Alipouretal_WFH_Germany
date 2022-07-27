@@ -12,7 +12,7 @@ The index is available at the 2-digit NACE industry level, NUTS-3 (county) level
 - **wfh_feas**: Share of WFH feasible jobs (WFH capacity)  
 
 #### County-level data [[csv-format](../master/wfh_nuts3.csv), [dta-format](../master/wfh_nuts3.csv)]
-- **nuts3**: County identifier (*Allgemeiner Kreisschlüssel*)
+- **nuts3**: County identifier (*Amtlicher Kreisschlüssel*)
 - **wfh_freq**: Share of employees (working in county &) working from home frequently
 - **wfh_occ**: Share of employees (working in county &) working from home occasionally
 - **wfh_tot**: Share of employees (working in county &) ever working from home
